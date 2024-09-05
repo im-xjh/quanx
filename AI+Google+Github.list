@@ -1,0 +1,99 @@
+# NAME: AI+Google+Github
+# AUTHOR: User
+# UPDATED: 2024-09-05
+
+# OpenAI
+HOST,browser-intake-datadoghq.com,AI+Google+Github
+HOST,chat.openai.com.cdn.cloudflare.net,AI+Google+Github
+HOST,gemini.google.com,AI+Google+Github
+HOST,openai-api.arkoselabs.com,AI+Google+Github
+HOST,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,AI+Google+Github
+HOST,openaicomproductionae4b.blob.core.windows.net,AI+Google+Github
+HOST,production-openaicom-storage.azureedge.net,AI+Google+Github
+HOST,static.cloudflareinsights.com,AI+Google+Github
+HOST-SUFFIX,ai.com,AI+Google+Github
+HOST-SUFFIX,algolia.net,AI+Google+Github
+HOST-SUFFIX,api.statsig.com,AI+Google+Github
+HOST-SUFFIX,auth0.com,AI+Google+Github
+HOST-SUFFIX,chatgpt.com,AI+Google+Github
+HOST-SUFFIX,chatgpt.livekit.cloud,AI+Google+Github
+HOST-SUFFIX,client-api.arkoselabs.com,AI+Google+Github
+HOST-SUFFIX,events.statsigapi.net,AI+Google+Github
+HOST-SUFFIX,featuregates.org,AI+Google+Github
+HOST-SUFFIX,host.livekit.cloud,AI+Google+Github
+HOST-SUFFIX,identrust.com,AI+Google+Github
+HOST-SUFFIX,intercom.io,AI+Google+Github
+HOST-SUFFIX,intercomcdn.com,AI+Google+Github
+HOST-SUFFIX,launchdarkly.com,AI+Google+Github
+HOST-SUFFIX,oaistatic.com,AI+Google+Github
+HOST-SUFFIX,oaiusercontent.com,AI+Google+Github
+HOST-SUFFIX,observeit.net,AI+Google+Github
+HOST-SUFFIX,openai.com,AI+Google+Github
+HOST-SUFFIX,openaiapi-site.azureedge.net,AI+Google+Github
+HOST-SUFFIX,openaicom.imgix.net,AI+Google+Github
+HOST-SUFFIX,segment.io,AI+Google+Github
+HOST-SUFFIX,sentry.io,AI+Google+Github
+HOST-SUFFIX,stripe.com,AI+Google+Github
+HOST-SUFFIX,turn.livekit.cloud,AI+Google+Github
+HOST-KEYWORD,openai,AI+Google+Github
+IP-CIDR,24.199.123.28/32,AI+Google+Github
+IP-CIDR,64.23.132.171/32,AI+Google+Github
+IP-ASN,20473,AI+Google+Github
+
+# Claude
+HOST,cdn.usefathom.com,AI+Google+Github
+HOST-SUFFIX,anthropic.com,AI+Google+Github
+HOST-SUFFIX,claude.ai,AI+Google+Github
+
+# Gemini
+HOST,ai.google.dev,AI+Google+Github
+HOST,alkalimakersuite-pa.clients6.google.com,AI+Google+Github
+HOST,makersuite.google.com,AI+Google+Github
+HOST-SUFFIX,bard.google.com,AI+Google+Github
+HOST-SUFFIX,deepmind.com,AI+Google+Github
+HOST-SUFFIX,deepmind.google,AI+Google+Github
+HOST-SUFFIX,gemini.google.com,AI+Google+Github
+HOST-SUFFIX,generativeai.google,AI+Google+Github
+HOST-SUFFIX,proactivebackend-pa.googleapis.com,AI+Google+Github
+HOST-SUFFIX,apis.google.com,AI+Google+Github
+HOST-KEYWORD,colab,AI+Google+Github
+HOST-KEYWORD,developerprofiles,AI+Google+Github
+HOST-KEYWORD,generativelanguage,AI+Google+Github
+
+# GoogleSearch
+HOST-KEYWORD,www.google.,AI+Google+Github
+
+# GitHub
+HOST-SUFFIX,atom.io,AI+Google+Github
+HOST-SUFFIX,dependabot.com,AI+Google+Github
+HOST-SUFFIX,ghcr.io,AI+Google+Github
+HOST-SUFFIX,git.io,AI+Google+Github
+HOST-SUFFIX,github-atom-io-herokuapp-com.freetls.fastly.net,AI+Google+Github
+HOST-SUFFIX,github-avatars.oss-cn-hongkong.aliyuncs.com,AI+Google+Github
+HOST-SUFFIX,github-cloud.s3.amazonaws.com,AI+Google+Github
+HOST-SUFFIX,github.blog,AI+Google+Github
+HOST-SUFFIX,github.com,AI+Google+Github
+HOST-SUFFIX,github.community,AI+Google+Github
+HOST-SUFFIX,github.dev,AI+Google+Github
+HOST-SUFFIX,github.io,AI+Google+Github
+HOST-SUFFIX,githubapp.com,AI+Google+Github
+HOST-SUFFIX,githubassets.com,AI+Google+Github
+HOST-SUFFIX,githubhackathon.com,AI+Google+Github
+HOST-SUFFIX,githubnext.com,AI+Google+Github
+HOST-SUFFIX,githubpreview.dev,AI+Google+Github
+HOST-SUFFIX,githubstatus.com,AI+Google+Github
+HOST-SUFFIX,githubuniverse.com,AI+Google+Github
+HOST-SUFFIX,githubusercontent.com,AI+Google+Github
+HOST-SUFFIX,myoctocat.com,AI+Google+Github
+HOST-SUFFIX,npm.community,AI+Google+Github
+HOST-SUFFIX,npmjs.com,AI+Google+Github
+HOST-SUFFIX,npmjs.org,AI+Google+Github
+HOST-SUFFIX,opensource.guide,AI+Google+Github
+HOST-SUFFIX,rawgit.com,AI+Google+Github
+HOST-SUFFIX,rawgithub.com,AI+Google+Github
+HOST-SUFFIX,repo.new,AI+Google+Github
+HOST-SUFFIX,thegithubshop.com,AI+Google+Github
+HOST-KEYWORD,github,AI+Google+Github
+
+# Perplexity
+HOST-SUFFIX,perplexity.ai,AI+Google+Github
