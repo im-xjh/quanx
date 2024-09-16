@@ -1,7 +1,7 @@
 # NAME: AI+Google+Github
 # AUTHOR: User
 # UPDATED: 2024-09-05
-DOMAIN-SUFFIX,9cache.com
+DOMAIN-SUFFIX,9cache.com,AI+Google+Github
 # OpenAI
 HOST,browser-intake-datadoghq.com,AI+Google+Github
 HOST,chat.openai.com.cdn.cloudflare.net,AI+Google+Github
